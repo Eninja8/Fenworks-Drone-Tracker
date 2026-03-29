@@ -32,7 +32,7 @@ What do I do with the copy?:
 
 Email Tab: 
 
-Once you have parsed all 3 game modes (make sure to do all of high school or all of college first, don't mix... will fix later to do and save both at same time) head over to the email tab.
+Once you have parsed all 3 game modes (make sure to do all of high school or all of college first, don't mix... will fix later to do and save both at the same time) head over to the email tab.
 
 1. Select a school
 2. Preview Email (see what it will look like in page) 
@@ -43,8 +43,7 @@ Once you have parsed all 3 game modes (make sure to do all of high school or all
 
 
 Extra pictures:
-
-<img width="1903" height="621" alt="image" src="https://github.com/user-attachments/assets/b385a0ca-c4d3-48b4-ba1f-1d7c8b2a6def" />
+<img width="1919" height="594" alt="image" src="https://github.com/user-attachments/assets/1fdcbf4c-b537-4330-87c9-fba0c3816e18" />
 <img width="1195" height="784" alt="image" src="https://github.com/user-attachments/assets/08a72938-9c93-4f90-8b63-c1afdab23867" />
 (make sure to change ur email to drones email, it sometimes won't save it and tries to send it as ur self) 
 
