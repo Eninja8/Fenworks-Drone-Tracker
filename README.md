@@ -11,7 +11,7 @@ This will be true for all different modes of drones, you will always start the c
 
 Much like with the start of the copy the end of the copy will just be where ever the information ends, with only 1 difference for the individual category. 
 You will not need to copy the season leaderboard for INDIVIDUAL ONLY, as it does not matter for the information we need. And will mess up the numbers if you do. 
-<img width="1700" height="838" alt="image" src="https://github.com/user-attachments/assets/72b4b178-5a8b-4268-b37f-994d0d7e8a91" />
+<img width="1704" height="894" alt="image" src="https://github.com/user-attachments/assets/d422a4ab-2396-4235-ad40-de61ef550495" />
 
 
 Ok lastly duos and combat (they both have the same copy paste. 
