@@ -7,7 +7,7 @@ Where do I copy?:
 
 Copy info specifically starting with the "Week x start date:" 
 This will be true for all different modes of drones, you will always start the copy from the same place.
-<img width="1598" height="887" alt="image" src="https://github.com/user-attachments/assets/75b59781-122e-403e-9509-a3b02f9a3679" />
+<img width="1712" height="891" alt="image" src="https://github.com/user-attachments/assets/6ddb9506-3590-4955-b6e3-b21863350980" />
 
 Much like with the start of the copy the end of the copy will just be where ever the information ends, with only 1 difference for the individual category. 
 You will not need to copy the season leaderboard for INDIVIDUAL ONLY, as it does not matter for the information we need. And will mess up the numbers if you do. 
